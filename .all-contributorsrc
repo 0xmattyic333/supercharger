@@ -1,0 +1,29 @@
+{
+  "projectName": "supercharger",
+  "projectOwner": "cytronicoder",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "cytronicoder",
+      "name": "Zeyu Yao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105997270?v=4",
+      "profile": "https://github.com/cytronicoder",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
