@@ -1,12 +1,9 @@
-<div align="center">
-    <h2>Supercharger</h2>
-    <h4>A GitHub bot for managing projects built by the <a href="https://alchemy.com">Alchemy</a> community on GitHub easily</h4>
-    <p>
-        <a href="https://github.com/cytronicoder/supercharger/pulls">Contribute to this repository</a>
-        ·
-        <a href="https://github.com/cytronicoder/supercharger/issues">Report a bug/request a feature</a>
-    </p>
-</div>
+# Supercharger
+**A GitHub bot for managing projects built by the [Alchemy](https://alchemy.com) community on GitHub easily**
+
+[Contribute to this repository](https://github.com/cytronicoder/supercharger/pulls) · [Report a bug/request a feature](https://github.com/cytronicoder/supercharger/issues)
+
+<br />
 
 <div display="flex" align-items="center">
     <img src="assets/images/logo.png" alt="logo" width="150" height="150" align="left">
@@ -16,6 +13,18 @@
 
 <br />
 
-<h3>Roadmap</h3>
+## Roadmap
+<h4>In progress</h4>
 
-- [ ] Coming soon!
+- [ ] Basic checks for pull request
+  - [ ] Code style
+  - [ ] Tests and deployment
+- [ ] New contributors guide and onboarding process: Reply to pull request with link to `CONTRIBUTING.md` and make sure the contributor is mindful of the contribution guidelines
+- [ ] Webhook integration for updates from GitHub to Discord
+- [ ] Documentation and usage guides
+
+<h4>To do</h4>
+
+- [ ] Automated merge and deletion of pull requests
+- [ ] Custom tests and deployment workflows for projects
+- [ ] Package management
