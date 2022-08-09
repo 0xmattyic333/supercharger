@@ -1,20 +1,30 @@
-# Supercharger
-
-**A GitHub bot for managing projects built by the [Alchemy](https://alchemy.com) community on GitHub easily**
-
-[Contribute to this repository](https://github.com/cytronicoder/supercharger/pulls) · [Report a bug/request a feature](https://github.com/cytronicoder/supercharger/issues)
-
-<div display="flex" align-items="center">
-    <img src="assets/images/logo.png" alt="logo" width="150" height="150" align="left">
-    <h3>What is Supercharger?</h3>
-    <p>Supercharger is a Github bot that guides first-time contributors to create their first pull request and allows project collaborators to create custom tests and deployment workflows in Alchemy open-source projects.<b>Note that this project is still in development - join the <a href="https://discord.gg/RbZtCrzWKY">Alchemy Platform Discord server</a> for updates.</b></p>
+<div align="center">
+    <a href="https://github.com/cytronicoder/supercharger">
+        <img src="assets/images/logo.png" alt="Supercharger logo" width="100" height="100">
+    </a>
+    <h1>Supercharger</h1>
+    <h3>A tool for managing projects built by the <a href="https://alchemy.com">Alchemy</a> community on GitHub easily</h3>
+    <p>
+        <a href="https://github.com/cytronicoder/supercharger/pulls">Contribute to this repository</a>
+        ·
+        <a href="https://github.com/cytronicoder/supercharger/issues">Report a bug/request a feature</a>
+    </p>
 </div>
 
 <br />
 
+## What is Supercharger?
+
+Supercharger is a Github bot that guides first-time contributors to create their first pull request and allows project collaborators to create custom tests and deployment workflows in Alchemy open-source projects. **Note that this project is still in development - join Alchemy's [Discord server](https://discord.gg/RbZtCrzWKY) for updates.**</p>
+</div>
+
 ## Roadmap
 
-#### In progress
+This project is currently in development, and we are actively working on features outlined in the roadmap and updating this page as we progress.
+
+### In progress
+
+The following things are currently being worked on:
 
 - [ ] Basic checks for pull request
   - [ ] Code style
@@ -23,7 +33,9 @@
 - [ ] Webhook integration for updates from GitHub to Discord
 - [ ] Documentation and usage guides
 
-#### To do
+### To do
+
+Some notable features that we will be implementing in the future are:
 
 - [ ] Automated merge and deletion of pull requests
 - [ ] Custom tests and deployment workflows for projects
