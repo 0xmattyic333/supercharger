@@ -1,0 +1,12 @@
+{
+  "name": "supercharger",
+  "version": "0.0.1",
+  "description": "A tool for managing projects built by the Alchemy community on GitHub easily",
+  "repository": "https://github.com/cytronicoder/supercharger.git",
+  "devDependencies": {
+    "all-contributors-cli": "^6.20.0"
+  },
+  "author": "Zeyu Yao <novodoodle@gmail.com>",
+  "license": "MIT",
+  "private": true
+}

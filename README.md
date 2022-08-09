@@ -1,12 +1,12 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br />
 
 <div align="center">
     <a href="https://github.com/cytronicoder/supercharger">
-        <img src="resources/images/logo.png" alt="Supercharger logo" width="100" height="100">
+        <img src="images/logo.png" alt="Supercharger logo" width="100" height="100">
     </a>
     <h1>Supercharger</h1>
     <h3>A tool for managing projects built by the <a href="https://alchemy.com">Alchemy</a> community on GitHub easily</h3>
@@ -33,3 +33,9 @@ To contribute to this project, please read the [contribution guidelines](CONTRIB
 
 Many thanks to all of the contributors who have helped make this project a success - you can see a list of all the contributors here ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## License
+
+Supercharger is licensed under the [MIT License](LICENSE).

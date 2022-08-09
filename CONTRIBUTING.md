@@ -24,6 +24,10 @@ When working on a new feature or fixing a bug, please make sure you made a separ
 
 When submitting a pull request, please make sure you have included documentation for your changes; if you implemented a change or added a new feature, please make sure you have updated the documentation accordingly.
 
+### All Contributors Badge
+
+We use the [All Contributors CLI](https://allcontributors.org/docs/en/cli/usage) to generate a list of all contributors to the project and their contributions. For more information, please see the [All Contributors documentation](https://allcontributors.org/docs/en/).
+
 ## Example workflow
 
 To demonstrate how you can submit a pull request, please follow the following steps:
