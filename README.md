@@ -1,9 +1,8 @@
 # Supercharger
+
 **A GitHub bot for managing projects built by the [Alchemy](https://alchemy.com) community on GitHub easily**
 
 [Contribute to this repository](https://github.com/cytronicoder/supercharger/pulls) · [Report a bug/request a feature](https://github.com/cytronicoder/supercharger/issues)
-
-<br />
 
 <div display="flex" align-items="center">
     <img src="assets/images/logo.png" alt="logo" width="150" height="150" align="left">
@@ -14,7 +13,8 @@
 <br />
 
 ## Roadmap
-<h4>In progress</h4>
+
+#### In progress
 
 - [ ] Basic checks for pull request
   - [ ] Code style
@@ -23,8 +23,12 @@
 - [ ] Webhook integration for updates from GitHub to Discord
 - [ ] Documentation and usage guides
 
-<h4>To do</h4>
+#### To do
 
 - [ ] Automated merge and deletion of pull requests
 - [ ] Custom tests and deployment workflows for projects
 - [ ] Package management
+
+## Contributing
+
+To contribute to this project, please read the [contribution guidelines](CONTRIBUTING.md) for more information before submitting a pull request to the project.
