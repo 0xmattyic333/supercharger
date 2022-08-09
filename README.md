@@ -11,8 +11,6 @@
     </p>
 </div>
 
-<br />
-
 ## What is Supercharger?
 
 Supercharger is a Github bot that guides first-time contributors to create their first pull request and allows project collaborators to create custom tests and deployment workflows in Alchemy open-source projects. **Note that this project is still in development - join Alchemy's [Discord server](https://discord.gg/RbZtCrzWKY) for updates.**</p>
