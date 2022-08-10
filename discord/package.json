@@ -1,0 +1,14 @@
+{
+  "name": "supercharger-discord-bot",
+  "version": "0.0.1",
+  "description": "Webhook integration for updates from Alchemy's GitHub repositories to Discord",
+  "main": "index.js",
+  "author": "Zeyu Yao <novodoodle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
