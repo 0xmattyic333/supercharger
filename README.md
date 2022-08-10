@@ -23,7 +23,22 @@ Supercharger is a Github bot that guides first-time contributors to create their
 
 ## Roadmap
 
-This project is currently in development, and we are actively working on features outlined in the roadmap and updating this page as we progress. The roadmap is available [here](resources/markdown/roadmap.md).
+This project is currently in development, and we are actively working on features outlined in the roadmap and updating this page as we progress.
+
+### In progress
+
+- [ ] Basic checks for pull request
+  - [ ] Code style
+  - [ ] Tests and deployment
+- [ ] New contributors guide and onboarding process: Reply to pull request with link to `CONTRIBUTING.md` and make sure the contributor is mindful of the contribution guidelines
+- [ ] Webhook integration for updates from GitHub to Discord
+- [ ] Documentation and usage guides
+
+### To do
+
+- [ ] Automated merge and deletion of pull requests
+- [ ] Custom tests and deployment workflows for projects
+- [ ] Package management
 
 ## Contributing
 
