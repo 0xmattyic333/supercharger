@@ -48,7 +48,7 @@ To contribute to this project, please read the [contribution guidelines](CONTRIB
 
 ### Contributors
 
-Many thanks to all of the contributors who have helped make this project a success - you can see a list of all the contributors here ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Many thanks to all of the contributors who have helped make this project a success - you can see a list of all the contributors here:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
