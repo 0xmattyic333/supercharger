@@ -42,13 +42,13 @@ This project is currently in development, and we are actively working on feature
 
 ## Contributing
 
-If you have suggestions for how app could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
+If you have suggestions for how Supercharger could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
 
 To contribute to this project, please read the [contribution guidelines](CONTRIBUTING.md) for more information before submitting a pull request to the project.
 
 ### Contributors
 
-Many thanks to all of the contributors who have helped make this project a success - you can see a list of all the contributors here ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Many thanks to all of the contributors who have helped make this project a success - you can see a list of all the contributors here:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
